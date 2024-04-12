@@ -1,0 +1,45 @@
+.html_icon{
+    color: red;
+}
+
+.textColor{
+    color: #fff;
+}
+
+
+.cm-gutters,.cm-editor{
+    background: #1d1e22 !important;
+}
+
+.headColor{
+    color: hsl( 226.67deg 11.84% 70.2% );
+}
+
+.split-sash-content{
+    border-right: 0.2px solid #d8d8d8;
+}
+
+.editorLogo{
+    display: block;
+    width: 30px;
+    height: 100%;
+    margin: 0 8px;
+}
+
+.editorLogo svg{
+    display: block;
+    fill: hsl( 0deg 0% 100% );
+    height: 100%;
+    width: 100%;
+}
+
+.top_setion{
+    background: rgb(29, 30, 34);
+}
+
+.titleChange{
+    padding: 3px;
+    background-color: rgb(1, 1, 1);
+    color: #fff;
+    width: fit-content;
+}

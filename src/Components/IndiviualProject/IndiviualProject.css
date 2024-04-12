@@ -1,0 +1,14 @@
+.flexItem{
+display: flex;
+gap: 20px;
+flex-wrap: wrap;
+margin-top: 50px;
+}
+
+.card{
+    background-color: hsl( 232.5deg 11.76% 13.33% );
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

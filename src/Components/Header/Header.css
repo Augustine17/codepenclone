@@ -1,0 +1,25 @@
+.inputSection{
+    display: flex;
+    gap: 10px;
+    width: 80%;
+    background: hsl(232.5deg 11.76% 13.33%);
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.inputSection svg{
+    fill: hsl(228.39deg 12.25% 50.39%);
+    font-size: 20px;
+}
+
+.inputSection input{
+    width: 100%;
+    background: hsl(232.5deg 11.76% 13.33%);
+    font-size: 18px;
+}
+
+.inputSection input:active{
+    border: none;
+}
